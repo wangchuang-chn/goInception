@@ -41,10 +41,10 @@ log-rotate = true
 
 [inc]
 
-backup_host = ""
-backup_port = 0
-backup_user = ""
-backup_password = ""
+backup_host = "172.16.0.2"
+backup_port = 3306
+backup_user = "test"
+backup_password = "RhRqo60jPhX7"
 
 enable_alter_database = false
 enable_zero_date = true
